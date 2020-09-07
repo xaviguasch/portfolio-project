@@ -305,3 +305,19 @@ nav {
   transform: scale(1.2);
   opacity: 0.5;
 }
+
+/* FOOTER SECTION */
+
+footer {
+  background: var(--clr-dark);
+}
+
+.footer__link {
+  display: block;
+  color: var(--clr-accent);
+  font-size: var(--fs-h3);
+  font-weight: var(--fw-bold);
+  text-align: center;
+  text-decoration: none;
+  padding-top: 4em;
+}
